@@ -1,0 +1,39 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+A
+Paris is the capital of France.
+
+Which planet is known as the Red Planet?
+Mars
+Venus
+Jupiter
+Saturn
+A
+Mars is known as the Red Planet due to its reddish appearance.
+
+Who wrote the play "Romeo and Juliet"?
+William Shakespeare
+Charles Dickens
+Jane Austen
+Mark Twain
+A
+William Shakespeare wrote "Romeo and Juliet."
+
+What is the largest mammal in the world?
+Blue Whale
+Elephant
+Giraffe
+Hippopotamus
+A
+The Blue Whale is the largest mammal in the world.
+
+What is the smallest prime number?
+2
+3
+5
+7
+A
+The smallest prime number is 2.
